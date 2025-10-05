@@ -205,3 +205,31 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Données volumineuses ---
+data/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.parquet
+
+# --- Modèles entraînés et sorties ---
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.model
+*.ckpt
+outputs/
+results/
+
+# --- Logs et fichiers temporaires ---
+*.log
+*.out
+*.err
+logs/
+
