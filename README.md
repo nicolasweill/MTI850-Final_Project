@@ -19,8 +19,7 @@ Lien vers le kaggle : https://www.kaggle.com/competitions/jigsaw-unintended-bias
 ### 1.1 Nettoyage et prétraitement
 1.1.1 Prétraitement sur échantillon réduit (tests de pipeline rapide).  
 1.1.2 Prétraitement complet (regex, minuscules, stopwords, lemmatisation).  
-1.1.3 Détection et retrait d’éléments neutres/redondants (liens, balises HTML).  
-1.1.4 Gestion du déséquilibre des classes (`target`, identités protégées) :  
+1.1.3 Gestion du déséquilibre des classes (`target`, identités protégées) :  
 - oversampling / undersampling,  
 - poids de classe dans le modèle.  
 
