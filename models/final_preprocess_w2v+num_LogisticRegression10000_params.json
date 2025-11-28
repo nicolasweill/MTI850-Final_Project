@@ -10,7 +10,7 @@
     "predictionCol": "prediction",
     "probabilityCol": "probability",
     "rawPredictionCol": "rawPrediction",
-    "regParam": 0.1,
+    "regParam": 0.01,
     "standardization": true,
     "threshold": 0.5,
     "tol": 1e-06
