@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.IDFModel","timestamp":1765074412611,"sparkVersion":"4.0.0","uid":"IDF_6aeefa3b03c9","paramMap":{"inputCol":"tf_bigrams","outputCol":"tfidf_bigrams"},"defaultParamMap":{"minDocFreq":0,"outputCol":"IDF_6aeefa3b03c9__output"}}
