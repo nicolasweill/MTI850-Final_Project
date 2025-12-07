@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.StandardScalerModel","timestamp":1765078827954,"sparkVersion":"4.0.0","uid":"StandardScaler_261667cba90d","paramMap":{"outputCol":"vec_tfidf_scaled","withMean":false,"inputCol":"vec_tfidf_raw","withStd":true},"defaultParamMap":{"outputCol":"StandardScaler_261667cba90d__output","withMean":false,"withStd":true}}
